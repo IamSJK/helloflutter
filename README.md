@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-![Alt text](C:\Users\SUBHRAJYOTI\AndroidStudioProjects\helloflutter\images\S1.jpg?raw=true "Title")
+![Alt text](\images\S1.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
