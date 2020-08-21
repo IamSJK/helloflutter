@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-![Alt text](./S1.jpg)
+![Image info](./S1.jpg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
